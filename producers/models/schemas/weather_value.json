@@ -1,0 +1,9 @@
+{
+  "type": "record",
+  "namespace": "com.udacity",
+  "name": "weather.value",
+  "fields": [
+      {"name": "temperature", "type": "float"},
+      {"name": "status", "type": "string"}
+  ]
+}
